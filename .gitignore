@@ -1,0 +1,6 @@
+# common files
+*~
+*.swp
+*.py[co]
+env/
+output/
